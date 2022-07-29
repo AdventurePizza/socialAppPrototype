@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.7ac7b0bf.chunk.css",
-    "main.js": "/static/js/main.b359a0e1.chunk.js",
-    "main.js.map": "/static/js/main.b359a0e1.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.94b9d539.js",
-    "runtime-main.js.map": "/static/js/runtime-main.94b9d539.js.map",
-    "static/js/2.d13d193f.chunk.js": "/static/js/2.d13d193f.chunk.js",
-    "static/js/2.d13d193f.chunk.js.map": "/static/js/2.d13d193f.chunk.js.map",
-    "static/js/3.b473bc86.chunk.js": "/static/js/3.b473bc86.chunk.js",
-    "static/js/3.b473bc86.chunk.js.map": "/static/js/3.b473bc86.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.7ac7b0bf.chunk.css.map": "/static/css/main.7ac7b0bf.chunk.css.map",
-    "static/js/2.d13d193f.chunk.js.LICENSE.txt": "/static/js/2.d13d193f.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/static/media/Inconsolata-Regular.ed7f6e5b.ttf"
+    "main.css": "/socialAppPrototype/static/css/main.b5cad216.chunk.css",
+    "main.js": "/socialAppPrototype/static/js/main.b359a0e1.chunk.js",
+    "main.js.map": "/socialAppPrototype/static/js/main.b359a0e1.chunk.js.map",
+    "runtime-main.js": "/socialAppPrototype/static/js/runtime-main.f8d39f3b.js",
+    "runtime-main.js.map": "/socialAppPrototype/static/js/runtime-main.f8d39f3b.js.map",
+    "static/js/2.8c218a9e.chunk.js": "/socialAppPrototype/static/js/2.8c218a9e.chunk.js",
+    "static/js/2.8c218a9e.chunk.js.map": "/socialAppPrototype/static/js/2.8c218a9e.chunk.js.map",
+    "static/js/3.b473bc86.chunk.js": "/socialAppPrototype/static/js/3.b473bc86.chunk.js",
+    "static/js/3.b473bc86.chunk.js.map": "/socialAppPrototype/static/js/3.b473bc86.chunk.js.map",
+    "index.html": "/socialAppPrototype/index.html",
+    "static/css/main.b5cad216.chunk.css.map": "/socialAppPrototype/static/css/main.b5cad216.chunk.css.map",
+    "static/js/2.8c218a9e.chunk.js.LICENSE.txt": "/socialAppPrototype/static/js/2.8c218a9e.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/socialAppPrototype/static/media/Inconsolata-Regular.ed7f6e5b.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.94b9d539.js",
-    "static/js/2.d13d193f.chunk.js",
-    "static/css/main.7ac7b0bf.chunk.css",
+    "static/js/runtime-main.f8d39f3b.js",
+    "static/js/2.8c218a9e.chunk.js",
+    "static/css/main.b5cad216.chunk.css",
     "static/js/main.b359a0e1.chunk.js"
   ]
 }
